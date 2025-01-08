@@ -1,3 +1,5 @@
+package model
+
 data class Doctor(
     var id: String,
     var name: String,
